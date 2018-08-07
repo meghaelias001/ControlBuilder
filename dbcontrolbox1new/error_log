@@ -1,0 +1,110 @@
+[14-Apr-2018 13:03:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' query: INSERT  INTO files_control (`filename`)  VALUES (?)' in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php:1833
+Stack trace:
+#0 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1441): MysqliDb->_prepareQuery()
+#1 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1381): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(693): MysqliDb->_buildInsert('files_control', Array, 'INSERT')
+#3 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/export-excel.php(216): MysqliDb->insert('files_control', Array)
+#4 {main}
+  thrown in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php on line 1833
+[14-Apr-2018 13:05:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' query: INSERT  INTO files_control (`filename`)  VALUES (?)' in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php:1833
+Stack trace:
+#0 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1441): MysqliDb->_prepareQuery()
+#1 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1381): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(693): MysqliDb->_buildInsert('files_control', Array, 'INSERT')
+#3 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/export-excel.php(216): MysqliDb->insert('files_control', Array)
+#4 {main}
+  thrown in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php on line 1833
+[14-Apr-2018 13:16:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' query: INSERT  INTO files_control (`filename`)  VALUES (?)' in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php:1833
+Stack trace:
+#0 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1441): MysqliDb->_prepareQuery()
+#1 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1381): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(693): MysqliDb->_buildInsert('files_control', Array, 'INSERT')
+#3 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/export-excel.php(216): MysqliDb->insert('files_control', Array)
+#4 {main}
+  thrown in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php on line 1833
+[14-Apr-2018 13:16:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' query: INSERT  INTO files_control (`filename`)  VALUES (?)' in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php:1833
+Stack trace:
+#0 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1441): MysqliDb->_prepareQuery()
+#1 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(1381): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php(693): MysqliDb->_buildInsert('files_control', Array, 'INSERT')
+#3 /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/export-excel.php(216): MysqliDb->insert('files_control', Array)
+#4 {main}
+  thrown in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/MysqliDb.php on line 1833
+[19-Apr-2018 09:06:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php:1) in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php on line 3
+[19-Apr-2018 09:06:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php:1) in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php on line 3
+[19-Apr-2018 09:07:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php:1) in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php on line 3
+[19-Apr-2018 09:08:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php:1) in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php on line 3
+[19-Apr-2018 09:08:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php:1) in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire5.php on line 3
+[13-Jun-2018 12:56:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 09:05:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 09:47:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 10:20:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 12:56:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 12:57:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 13:38:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 13:38:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 13:39:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 13:45:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[14-Jun-2018 15:08:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[16-Jun-2018 09:46:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[16-Jun-2018 09:47:58 UTC] PHP Notice:  Undefined index: q2 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/questionnaire1_proc.php on line 3
+[16-Jun-2018 13:58:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[16-Jun-2018 13:59:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[16-Jun-2018 14:00:03 UTC] PHP Notice:  Undefined index: abfrageNew51 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 4
+[16-Jun-2018 14:00:03 UTC] PHP Notice:  Undefined index: abfrageNew52 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 5
+[16-Jun-2018 14:00:03 UTC] PHP Notice:  Undefined index: abfrageNew53 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 6
+[16-Jun-2018 14:00:03 UTC] PHP Notice:  Undefined index: abfrageNew54 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 7
+[16-Jun-2018 14:00:03 UTC] PHP Notice:  Undefined index: abfrageNew55 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 8
+[16-Jun-2018 14:00:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[16-Jun-2018 14:14:43 UTC] PHP Notice:  Undefined index: abfrageNew51 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 4
+[16-Jun-2018 14:14:43 UTC] PHP Notice:  Undefined index: abfrageNew52 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 5
+[16-Jun-2018 14:14:43 UTC] PHP Notice:  Undefined index: abfrageNew53 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 6
+[16-Jun-2018 14:14:43 UTC] PHP Notice:  Undefined index: abfrageNew54 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 7
+[16-Jun-2018 14:14:43 UTC] PHP Notice:  Undefined index: abfrageNew55 in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/abfrageNew5_proc.php on line 8
+[16-Jun-2018 14:15:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 10:21:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 10:23:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 14:49:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 14:50:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 15:04:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 15:05:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[18-Jun-2018 15:05:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[23-Jun-2018 12:12:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[25-Jun-2018 18:33:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[04-Jul-2018 11:36:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[04-Jul-2018 12:15:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[04-Jul-2018 12:20:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[04-Jul-2018 22:56:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[04-Jul-2018 22:58:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[05-Jul-2018 09:38:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[05-Jul-2018 15:27:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[05-Jul-2018 15:51:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[05-Jul-2018 15:54:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[05-Jul-2018 16:33:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[05-Jul-2018 16:34:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:11:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:18:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:25:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:26:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:30:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:42:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[06-Jul-2018 16:55:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:02:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:03:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:16:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:16:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:20:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:21:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:22:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:34:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:35:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:36:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:36:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 15:46:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 19:50:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 20:21:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 20:25:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 20:27:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[08-Jul-2018 20:33:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[10-Jul-2018 12:20:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
+[10-Jul-2018 12:22:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/caminos1733/public_html/cacheit.in/megha/dbcontrolbox1/admin/dbconfig.php on line 3
